@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>100976500_2893509704108337_386888515129966592_o.jpg</filename>
+	<path>C:\Users\rodol\Desktop\nuevo\deteccion_objetos\images\100976500_2893509704108337_386888515129966592_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mototaxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>4</ymin>
+			<xmax>651</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>94330858_1822026664599137_2283970673510449152_n.jpg</filename>
+	<path>C:\Users\rodol\Desktop\nuevo\deteccion_objetos\images\94330858_1822026664599137_2283970673510449152_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>136</ymin>
+			<xmax>625</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>

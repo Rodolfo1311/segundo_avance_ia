@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>90215256_2808582445897192_6544351289365495808_o.jpg</filename>
+	<path>C:\Users\rodol\Desktop\tensor\deteccion_objetos\images\90215256_2808582445897192_6544351289365495808_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>193</ymin>
+			<xmax>957</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

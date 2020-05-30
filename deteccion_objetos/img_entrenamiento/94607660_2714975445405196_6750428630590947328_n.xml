@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>94607660_2714975445405196_6750428630590947328_n.jpg</filename>
+	<path>C:\Users\rodol\Desktop\nuevo\deteccion_objetos\images\94607660_2714975445405196_6750428630590947328_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>7</ymin>
+			<xmax>943</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>

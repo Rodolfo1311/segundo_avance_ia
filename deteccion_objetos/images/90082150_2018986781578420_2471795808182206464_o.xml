@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>90082150_2018986781578420_2471795808182206464_o.jpg</filename>
+	<path>C:\Users\rodol\Desktop\nuevo\deteccion_objetos\images\90082150_2018986781578420_2471795808182206464_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>93</ymin>
+			<xmax>825</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

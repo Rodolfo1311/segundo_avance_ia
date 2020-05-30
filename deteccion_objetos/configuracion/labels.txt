@@ -1,0 +1,6 @@
+null
+pickup
+mototaxi
+moto
+bus
+camion
