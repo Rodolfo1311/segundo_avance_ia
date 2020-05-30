@@ -9,7 +9,7 @@ Para este proyecto se utilizara un modelo preentrenado de Tensorflow el cual se 
 ### 1. clonar este repositorio
 
 ### 2. completar el modelo 
-###### para esto es necesario descargar las carpetas ["modelo y modelo congelado"](https://drive.google.com/drive/folders/1M6EKf0mCCvixNh2GyP9xtc0HU4oF5FW9?usp=sharing) y pegarlas dentro de deteccion_objetos
+###### para esto es necesario descargar las carpetas ["modelo y modelo congelado"](https://drive.google.com/drive/folders/1I9mIZa4FY10_XMF67DaB6KUx1OAqKi_m?usp=sharing) y pegarlas dentro de deteccion_objetos
 
 ### 3. tener instalado [Anaconda](https://www.anaconda.com/products/individual) 
 Anaconda es un programa el cual nos sirve para crear distintos entornos en nuestra computadora para la instalacion de librerias
